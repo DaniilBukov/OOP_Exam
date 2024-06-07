@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "57212d7bd76c2f93",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c4919ae891d535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba493b6c89d6c6e8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9566df2ffcee9a4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "35855dc11e136e99",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "79b9fffca9e7a7a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1196a0f793b5c4e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "77f1dd2348547281",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "94ea945d6c05b2f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c4b41ef11c9a8c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "de82e0bd210d5bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика/Задание 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faa6a32d9d6e7060",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93f72a13a85ceb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "555e0469415f6daa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12aa31a273dc1f68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#eblan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "172173e76131fe69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f4b5d0520f7da32d",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b772487b862adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ea46988ca4894a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Практика/Задание 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1a6360fd8ab8c2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Практика/Задание 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "429b71096245f9f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0f3938c5c5e558c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Практика/Задание 1.md"
+              }
+            }
+          },
+          {
+            "id": "f8bb3b00c960f6f2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "de82e0bd210d5bc2",
+  "lastOpenFiles": [
+    "Практика/Оглавление.md",
+    "Практика/Задание 1.md",
+    "Templates/Reference Template.md",
+    "Templates/Planner Template.md",
+    "Templates/Default Template.md",
+    "Templates/Daily Template.md",
+    "Templates/CSharp Code Template.md",
+    "Templates/Course Template.md",
+    "Templates/Book Template.md",
+    "Templates",
+    "Учеба/ООП/Практика/Задание 1.md",
+    "Учеба/ООП/Практика/Задание 2.md",
+    "Учеба/ООП/Практика/Чеклист.md",
+    "Учеба/ООП/Практика/Задание 8.md",
+    "Учеба/ООП/Практика/Оглавление.md",
+    "Учеба/ООП/Практика/Задание 5.md",
+    "Учеба/ООП/Практика/Задание 20.md",
+    "Учеба/ООП/Практика/Задание 19.md",
+    "Учеба/ООП/Практика/Задание 18.md",
+    "Учеба/ООП/Практика/Задание 17.md",
+    "Учеба/ООП/Практика/Задание 16.md",
+    "Учеба/ООП/Практика/Задание 15.md",
+    "Учеба/ООП/Практика/Задание 14.md",
+    "Учеба/ООП/Практика/Задание 13.md",
+    "Учеба/ООП/Практика/Задание 12.md",
+    "Учеба/ООП/Практика/Задание 11.md",
+    "Учеба/ООП/Практика/Задание 10.md",
+    "Учеба/ООП/Практика",
+    "Учеба/Мысли философские и не только",
+    "Учеба/ООП/Собака Павлова",
+    "Учеба/ООП/Конспект по видео А.Н. Уколова/Storage",
+    "Учеба/ООП/Конспект по видео А.Н. Уколова",
+    "Учеба/VR",
+    "Учеба/КГ",
+    "Учеба/ООП",
+    "Учеба"
+  ]
+}
