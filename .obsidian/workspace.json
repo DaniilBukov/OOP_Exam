@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Практика/Задание 5.md",
+                "file": "Практика/Задание 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Практика/Задание 5.md",
+                "file": "Практика/Задание 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Практика/Задание 5.md",
+                "file": "Практика/Задание 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Практика/Задание 5.md"
+                "file": "Практика/Задание 6.md"
               }
             }
           },
@@ -222,9 +222,9 @@
   },
   "active": "de82e0bd210d5bc2",
   "lastOpenFiles": [
+    "Практика/Задание 5.md",
     "Практика/Задание 3.md",
     "Практика/Задание 4.md",
-    "Практика/Задание 5.md",
     "Практика/Чеклист.md",
     "Практика/Задание 1.md",
     "Практика/Задание 2.md",
