@@ -35,8 +35,12 @@
             "id": "79b9fffca9e7a7a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Практика/Задание 17.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -77,14 +81,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория/6 Вопрос.md",
+                "file": "Практика/Оглавление.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5204158574a3044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика/Оглавление.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#eblan",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Теория/6 Вопрос.md",
+                "file": "Практика/Задание 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Теория/6 Вопрос.md",
+                "file": "Практика/Задание 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Теория/6 Вопрос.md"
+                "file": "Практика/Задание 17.md"
               }
             }
           },
@@ -220,35 +236,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de82e0bd210d5bc2",
+  "active": "79b9fffca9e7a7a1",
   "lastOpenFiles": [
-    "Теория/Оглавление.md",
-    "Теория/6 Вопрос.md",
-    "Теория/5 Вопрос.md",
-    "Практика/Задание 3.md",
-    "Практика/Задание 4.md",
-    "Практика/Задание 11.md",
-    "Теория/Чеклист.md",
+    "ReadMe.md",
+    "Практика/Задание 17.md",
     "Практика/Оглавление.md",
+    "Практика/Задание 20.md",
+    "Pasted image 20240613221942.png",
+    "Pasted image 20240613221600.png",
+    "Pasted image 20240613221507.png",
+    "Практика/Задание 19.md",
+    "Pasted image 20240613220903.png",
     "Практика/Задание 18.md",
-    "Теория/4 Вопрос.md",
-    "Теория/1 Вопрос.md",
-    "Теория/3 Вопрос.md",
-    "Теория/2 Вопрос.md",
-    "Практика/Задание 1.md",
-    "Практика/Чеклист.md",
+    "Pasted image 20240613220524.png",
+    "Pasted image 20240613220315.png",
+    "Pasted image 20240613220120.png",
+    "Практика/Задание 16.md",
+    "Templates/CSharp Code Template.md",
+    "Практика/Задание 15.md",
+    "Практика/Задание 14.md",
+    "Pasted image 20240613215812.png",
+    "Pasted image 20240613215733.png",
+    "Pasted image 20240613215627.png",
+    "Практика/Задание 13.md",
+    "Практика/Задание 12.md",
+    "Практика/Задание 11.md",
+    "Практика/Задание 10.md",
     "Практика/Задание 9.md",
     "Практика/Задание 8.md",
     "Практика/Задание 7.md",
-    "Практика/Задание 5.md",
-    "Практика/Задание 2.md",
-    "Теория",
     "Практика/Задание 6.md",
-    "Templates/Reference Template.md",
-    "Templates/Planner Template.md",
-    "Templates/Default Template.md",
-    "Templates/Daily Template.md",
-    "Templates/CSharp Code Template.md",
+    "Практика/Задание 5.md",
+    "Практика/Задание 4.md",
+    "Практика/Задание 3.md",
+    "Практика/Задание 2.md",
+    "Практика/Задание 1.md",
+    "Практика/Чеклист.md",
+    "Теория/7 Вопрос.md",
+    "Теория/Оглавление.md",
+    "Теория",
     "Templates",
     "Учеба/ООП/Практика",
     "Учеба/Мысли философские и не только",
