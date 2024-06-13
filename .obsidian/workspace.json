@@ -41,18 +41,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a949069404219bf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe.md",
-                "mode": "source",
-                "source": false
-              }
+
+
             }
           },
           {
@@ -112,7 +102,8 @@
             }
           }
         ],
-        "currentTab": 4
+
+
       }
     ],
     "direction": "vertical"
@@ -178,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+
               }
             }
           },
@@ -248,10 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a949069404219bf3",
-  "lastOpenFiles": [
-    "Практика/Задание 17.md",
-    "ReadMe.md",
+
     "Практика/Оглавление.md",
     "Практика/Задание 20.md",
     "Pasted image 20240613221942.png",
