@@ -41,6 +41,8 @@
                 "mode": "source",
                 "source": false
               }
+
+
             }
           },
           {
@@ -100,7 +102,8 @@
             }
           }
         ],
-        "currentTab": 3
+
+
       }
     ],
     "direction": "vertical"
@@ -166,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Практика/Задание 17.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +186,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Практика/Задание 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Практика/Задание 17.md"
+
               }
             }
           },
@@ -236,10 +238,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79b9fffca9e7a7a1",
-  "lastOpenFiles": [
-    "ReadMe.md",
-    "Практика/Задание 17.md",
+
     "Практика/Оглавление.md",
     "Практика/Задание 20.md",
     "Pasted image 20240613221942.png",
